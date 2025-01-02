@@ -7,3 +7,8 @@ I just love **bold text**.
 - Third item
 - Fourth item
 - 
+***
+
+---
+
+_________________
