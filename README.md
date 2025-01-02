@@ -12,3 +12,5 @@ I just love **bold text**.
 ---
 
 _________________
+<https://www.markdownguide.org>
+<fake@example.com>
