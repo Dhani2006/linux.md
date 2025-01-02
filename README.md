@@ -14,3 +14,4 @@ I just love **bold text**.
 _________________
 <https://www.markdownguide.org>
 <fake@example.com>
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
